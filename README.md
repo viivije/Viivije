@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+-    I´m Viivi Evikoski
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...HTML, python
 - 👯 I’m looking to collaborate on ...
